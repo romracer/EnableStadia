@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.5
-versionCode=6
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=enable_stadia
+name=Enable Stadia
+version=v1
+versionCode=1
+author=MishaalRahman
+description=Enables streaming from Google Stadia on your device
+support=
